@@ -1,0 +1,16 @@
+[
+  {
+    "identity": "someone",
+    "username": "Shabbat",
+    "first_name": "John",
+    "last_name": "Doe",
+    "steam_id": "76561198262297583"
+  },
+  {
+    "identity": "another",
+    "username": "mr Who",
+    "first_name": "JD",
+    "last_name": "Cooper",
+    "steam_id": "0000000000000000"
+  }
+]

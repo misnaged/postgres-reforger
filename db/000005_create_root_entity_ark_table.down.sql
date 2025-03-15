@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS root_entity_ark;
